@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <title>💚 Raf's Personal Projects</title>
@@ -8,10 +9,15 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="images/Rafael_Tavarez.JPG" div="" height="300" width="300" alt="Rafael Profile Picture" </td>
-            <td><h1>Rafael Tavarez</h1></td>
-            <p><em>Full Stack <strong>Web Development Student</strong></em></p>
-            <p>I am learning how to become a full stack web developer through <a href="https://www.udemy.com/course/the-complete-web-development bootcamp/learn/lecture/12287450#content">Angela Yu's</a> course. </p></td>
+            <td><img src="images/Rafael_Tavarez.JPG" div="" height="300" width="300"
+                    alt="Rafael Profile Picture" </td>
+            <td>
+                <h1>Rafael Tavarez</h1>
+                <p><em>Full Stack <strong>Web Development Student</strong></em></p>
+                <p>I am learning how to become a full stack web developer through <a
+                        href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287450#content">Angela
+                        Yu's</a> course. </p>
+            </td>
         </tr>
     </table>
 
