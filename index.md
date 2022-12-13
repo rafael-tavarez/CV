@@ -9,7 +9,7 @@
 <body>
     <table cellspacing="20">
         <tr>
-            <td><img src="images/Rafael_Tavarez.JPG" height="300" width="300"
+            <td><img src="images/Rafael_Tavarez.JPG" div="" height="300" width="300"
                     alt="Rafael Profile Picture" </td>
             <td>
                 <h1>Rafael Tavarez</h1>
